@@ -1,0 +1,6 @@
+{
+  "name": "VSC-connect",
+  "description": "Real-time multi-device audio syncing web application featuring Mobbin UI design, host/guest synchronization, queue management, and Spotify & YouTube Music integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
